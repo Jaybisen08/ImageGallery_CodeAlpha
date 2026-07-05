@@ -102,7 +102,7 @@ Task: **Image Gallery**
 
 ## 🔗 Live Demo
 
-🚀 Add your deployed link here.
+🚀 https://image-gallery-code-alpha.vercel.app/
 
 ---
 
