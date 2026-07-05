@@ -1,7 +1,7 @@
 # 🚀 SpaceVerse | Explore The Universe
 
 <p align="center">
-  <img src="assets/logo.png" width="140" alt="SpaceVerse Logo">
+  <img src="Logo.png" width="140" alt="SpaceVerse Logo">
 </p>
 
 <p align="center">
